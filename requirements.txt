@@ -11,3 +11,4 @@ cloudscraper
 yt-dlp
 pycryptodome
 m3u8
+pytube
