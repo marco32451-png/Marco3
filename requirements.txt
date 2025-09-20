@@ -1,6 +1,8 @@
 aiohttp
+aiofiles
 asyncio
 requests
+httpx
 pyrogram==2.0.106
 tgcrypto
 pyromod
@@ -12,3 +14,4 @@ yt-dlp
 pycryptodome
 m3u8
 pytube
+cryptography
