@@ -4,3 +4,7 @@ pyromod
 requests
 pytz
 m3u8
+aiohttp
+yt-dlp
+beautifulsoup4
+lxml
