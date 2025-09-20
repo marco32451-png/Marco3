@@ -10,3 +10,4 @@ lxml
 cloudscraper
 yt-dlp
 pycryptodome
+m3u8
