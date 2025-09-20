@@ -8,3 +8,8 @@ aiohttp
 yt-dlp
 beautifulsoup4
 lxml
+cloudscraper
+certifi
+urllib3
+idna
+charset-normalizer
