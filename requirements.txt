@@ -15,3 +15,4 @@ pycryptodome
 m3u8
 pytube
 cryptography
+ffmpeg-python
